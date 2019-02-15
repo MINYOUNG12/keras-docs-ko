@@ -1,6 +1,6 @@
 # The Sequential model API
 
-To get started, read [this guide to the Keras Sequential model](/getting-started/sequential-model-guide).
+시작하기 위해서는, [ㅁㄴㅇ람;ㄴ이]를 읽으세요
 
 ----
 
